@@ -1,5 +1,5 @@
 <a href="https://aimeos.org/">
-    <img src="https://aimeos.org/fileadmin/template/icons/logo.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="http://velocity.uwaterloo.ca/wp-content/uploads/2016/08/assets_blue.png" alt="HTN Logo" title="HTN" align="right" height="60" />
 </a>
 
 
