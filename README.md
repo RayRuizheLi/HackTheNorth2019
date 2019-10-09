@@ -18,10 +18,7 @@ As a tribute to the anime [Naruto](https://www.youtube.com/watch?v=otxA7fpPMPc),
 <br />
 
 # Acknowledgement
-The AR Voice ML Ninjutsu Battle Simulator was joint effort between Kevin Anita, Dan, and I. 
-
-Kevin and Dan helped immensly with the frontend of the project. 
-Anita contributed greatly to the backend of the project. 
+The AR Voice ML Ninjutsu Battle Simulator was joint effort between Kevin Anita, Dan, and I. Kevin and Dan helped immensly with the frontend of the project. Anita contributed greatly to the backend of the project. 
 
 Without these awesome team members, we would not have won both Hack the North and the Voiceflow API Challenge. 
 
