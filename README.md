@@ -39,13 +39,15 @@ A huge thank you to Brand Ream, CEO of Voiceflow for sharing our project on Link
 <br />
 <br />
 
-### A snapshot of our Voiceflow backend
+**A snapshot of our Voiceflow backend**
+<br />
 <img src="https://github.com/RayRuizheLi/HackTheNorth2019/blob/master/readme_resources/Voiceflow.png" alt="Voiceflow" title="Voiceflow" />
 
 <br />
 <br />
 
 # Devpost
+<br />
 To learn more about our project, how we came up with the idea, visit our page on Devpost!
 <a href="https://devpost.com/software/ar-voice-control-and-ml-hand-sign-ninjutsu-battle-simulator">
     <img src="https://github.com/RayRuizheLi/HackTheNorth2019/blob/master/readme_resources/devpost_screenshot.png" alt="Devpost" title="Devpost" />
