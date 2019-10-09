@@ -11,7 +11,7 @@ As a tribute to the anime [Naruto](https://www.youtube.com/watch?v=otxA7fpPMPc),
 <br />
 
 # Awards
-**Winner of Hack The North 2019** 
+**Winner of Hack The North 2019** <br />
 **Winner of Voiceflow API Challenge**
 
 <br />
